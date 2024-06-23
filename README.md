@@ -29,11 +29,8 @@ You can view a live demo of the landing page [here](#).
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd your-repo-name
+    git clone https://github.com/Sivadhan/Prasunet_WD_01
+    
     ```
 
 ## Usage
@@ -52,4 +49,4 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 Contact
 Siva Shanmugam - santhidas2005@gmail.com
 
-Project Link: https://github.com/yourusername/your-repo-name
+Project Link: https://github.com/Sivadhan/Prasunet_WD_01
