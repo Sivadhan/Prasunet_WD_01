@@ -6,7 +6,6 @@ This repository contains a simple responsive landing page project. The project i
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,9 +13,7 @@ This repository contains a simple responsive landing page project. The project i
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-## Demo
 
-You can view a live demo of the landing page [here](#).
 
 ## Features
 
